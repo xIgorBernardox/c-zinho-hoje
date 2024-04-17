@@ -23,8 +23,8 @@ body {
 
 .wrapper {
   position: relative;
-  width: 900px;
-  height: 700px;
+  width: 800px;
+  height: 600px;
   border-radius: 20px;
   display: flex;
   justify-content: center;
